@@ -11,8 +11,8 @@ Welcome My Profile<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahanrh&layout=compact)](https://github.com/Rahanrh/github-readme-stats) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Rahanrh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rahanrh&theme=gotham&hide_border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahanrh&layout=compact" height=180 />
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahanrh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahanrh&layout=compact" height=180 /> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahanrh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahanrh&icon=9&color=12)](https://visitcount.itsvg.in)
